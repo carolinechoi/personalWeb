@@ -1,0 +1,66 @@
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:bold,semi-bold);
+@import url(https://fonts.googleapis.com/css?family=Niramit:light,extra-light,regular);
+@import url(https://fonts.googleapis.com/css?family=Oswald:bold);
+@import url(https://fonts.googleapis.com/css?family=Poppins:regular);
+
+#photonImg{
+    width: 40%;
+    top: 70px;
+    left: 0;
+    z-index: -2;
+    position: absolute;
+}
+#photonTitle{
+    font-family: "Oswald";
+    text-transform: uppercase;
+    font-size: 20px;
+    position: absolute;
+    letter-spacing: 3px;
+    top: 230px;
+    left: 440px;
+    transform: rotate(90deg);
+}
+#photonTitle a{
+    color: #3a3a3a;
+    text-decoration: none;
+}
+#cooimg{
+    width: 30%;
+    top: 180px;
+    right: 0;
+    position: absolute;
+}
+#cooTitle{
+        font-family: "Oswald";
+        text-transform: uppercase;
+        font-size: 50px;
+        position: absolute;
+        letter-spacing: 3px;
+        top: 310px;
+        right: 410px;
+        transform: rotate(90deg);
+}
+#cooTitle a{
+    text-decoration: none;
+    color: #3a3a3a;
+}
+#todimg{
+    height: 35%;
+    bottom: 0;
+    left: 280px;
+    position: absolute;
+}
+#todTitle{
+    font-family: "Oswald";
+    text-transform: uppercase;
+    font-size: 34px;
+    position: absolute;
+    letter-spacing: 3px;
+    top: 500px;
+    right: 600px;
+    transform: rotate(90deg);
+}
+#todTitle a{
+text-decoration: none;
+color: #3a3a3a;
+}

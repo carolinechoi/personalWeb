@@ -1,0 +1,44 @@
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:bold,semi-bold);
+@import url(https://fonts.googleapis.com/css?family=Niramit:light,extra-light,regular);
+@import url(https://fonts.googleapis.com/css?family=Oswald:bold);
+@import url(https://fonts.googleapis.com/css?family=Poppins:regular);
+
+#pIntro{
+    position: absolute;
+    margin-top: 500px;
+    font-size: 10px;
+    margin-left: 150px;
+    font-family: "Poppins";
+    font-weight: bold;
+    margin-right: 897px;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+}
+#pIntro2{
+  position: absolute;
+  margin-top: 200px;
+  font-size: 10px;
+  margin-left: 690px;
+  font-family: "Poppins";
+  font-weight: bold;
+  margin-right: 530px;
+  letter-spacing: 1px;
+  word-spacing: 2px;
+}
+#pic{
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: 35%;
+}
+#link {
+  position: absolute;
+  margin-top: 280px;
+  font-size: 10px;
+  margin-left: 200px;
+  font-family: "Poppins";
+  font-weight: bold;
+  margin-right: 27px;
+  letter-spacing: 1px;
+  word-spacing: 2px;
+}

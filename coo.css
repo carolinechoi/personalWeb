@@ -1,0 +1,68 @@
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:bold,semi-bold);
+@import url(https://fonts.googleapis.com/css?family=Niramit:light,extra-light,regular);
+@import url(https://fonts.googleapis.com/css?family=Oswald:bold);
+@import url(https://fonts.googleapis.com/css?family=Poppins:regular);
+
+#cooImg{
+    width: 30%;
+    top: 150px;
+    right: 0;
+    position: absolute;
+}
+#cooimg2{
+    width: 43%;
+    top: 70px;
+    left: 0;
+    z-index: -2;
+    position: absolute;
+}
+#cooimg3{
+    height: 75%;
+    top: 480px;
+    left: 10px;
+    z-index: -2;
+    position: absolute;
+}
+#cooimg4{
+    height: 65%;
+    top: 460px;
+    right: 0;
+    z-index: -2;
+    position: absolute;
+}
+#cIntro{
+    position: absolute;
+    margin-top: 220px;
+    font-size: 10px;
+    margin-left: 620px;
+    font-family: "Poppins";
+    font-weight: bold;
+    margin-right: 547px;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+}
+#cIntro2{
+    position: absolute;
+    margin-top: 580px;
+    font-size: 10px;
+    margin-left: 810px;
+    font-family: "Poppins";
+    font-weight: bold;
+    margin-right: 347px;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+}
+#cooTitle2{
+    font-family: "Oswald";
+    text-transform: uppercase;
+    font-size: 40px;
+    position: absolute;
+    letter-spacing: 3px;
+    top: 310px;
+    right: 360px;
+    transform: rotate(90deg);
+}
+#cooTitle2 a{
+    text-decoration: none;
+    color: #3a3a3a;
+}
